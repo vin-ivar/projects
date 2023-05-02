@@ -120,3 +120,7 @@ venv.bak/
 
 # Vim files
 *.sw*
+
+*.nsys-rep
+*.sqlite
+*.pickle
